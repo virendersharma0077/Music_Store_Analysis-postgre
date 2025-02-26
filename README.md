@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/music-database-query.git
+git clone https://github.com/virendersharma0077/Music_Store_Analysis-postgre.git
 Set up PostgreSQL and create a new database.
 
 Run the database_setup.sql script to create the tables and insert sample data:
